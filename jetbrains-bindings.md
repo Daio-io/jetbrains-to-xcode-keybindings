@@ -1,4 +1,4 @@
-# Some intellij (Jetbrains IDE's) keyboard shortcuts
+## Some Jetbrains style keyboard shortcuts for Xcode
 
 ##### Delete the current line
 Just like ```cmd + backspace```
