@@ -8,7 +8,7 @@ Because I came from a Jetbrains IDE world and I want the same keyboard shortcuts
 
 Add these bindings to the correct ```<dict>``` here:
 
-```/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Resources/IDETextKeyBindingSet.plist```
+    /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Resources/IDETextKeyBindingSet.plist
 
 Then open restart/open Xcode and go to:
 
