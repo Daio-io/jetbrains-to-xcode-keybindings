@@ -10,8 +10,8 @@ Add these bindings to the correct ```<dict>``` here:
 
     /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Resources/IDETextKeyBindingSet.plist
 
-Then open restart/open Xcode and go to:
+Then restart/open Xcode and go to:
 
 Xcode -> Preferences and click the Key Bindings tab.
 
-Use the search to find your new bindings and add shortcuts
+Use the search to find your new bindings and add keyboard shortcut
